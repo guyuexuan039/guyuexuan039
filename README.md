@@ -1,19 +1,5 @@
 ### Hi there 👋
-
-
-**hello-github-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on China
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ My Document: https://hello-github-ui.github.io/my-docs/#/
-
+![](https://pic.imgdb.cn/item/61991d2a2ab3f51d91af5b92.jpg)
 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=hello-github-ui&show_icons=true&theme=gruvbox&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)]()
