@@ -8,36 +8,22 @@
 
 # 好励志的姐姐
 
-![1](./assets/1.jpg)
-
-![2](./assets/2.jpg)
-
-![3](./assets/3.jpg)
-
-![4](./assets/4.jpg)
-
-![4](./assets/5.jpg)
-
-![61](./assets/6.jpg)
-
-![7](./assets/7.jpg)
-
-![8](./assets/8.jpg)
-
-![9](./assets/9.jpg)
-
-![10](./assets/10.jpg)
-
-![11](./assets/11.jpg)
-
-![12](./assets/12.jpg)
-
-![31](./assets/13.jpg)
-
-![14](./assets/14.jpg)
-
-![15](./assets/15.jpg)
-
-![16](./assets/16.jpg)
-
-![17](./assets/17.jpg)
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+    <img src="./assets/1.jpg" alt="Image 1" style="width: 100%;">
+    <img src="./assets/2.jpg" alt="Image 2" style="width: 100%;">
+    <img src="./assets/3.jpg" alt="Image 3" style="width: 100%;">
+    <img src="./assets/4.jpg" alt="Image 4" style="width: 100%;">
+    <img src="./assets/5.jpg" alt="Image 5" style="width: 100%;">
+    <img src="./assets/6.jpg" alt="Image 6" style="width: 100%;">
+    <img src="./assets/7.jpg" alt="Image 7" style="width: 100%;">
+    <img src="./assets/8.jpg" alt="Image 8" style="width: 100%;">
+    <img src="./assets/9.jpg" alt="Image 9" style="width: 100%;">
+    <img src="./assets/10.jpg" alt="Image 10" style="width: 100%;">
+    <img src="./assets/11.jpg" alt="Image 11" style="width: 100%;">
+    <img src="./assets/12.jpg" alt="Image 12" style="width: 100%;">
+    <img src="./assets/13.jpg" alt="Image 13" style="width: 100%;">
+    <img src="./assets/14.jpg" alt="Image 14" style="width: 100%;">
+    <img src="./assets/15.jpg" alt="Image 15" style="width: 100%;">
+    <img src="./assets/16.jpg" alt="Image 16" style="width: 100%;">
+    <img src="./assets/17.jpg" alt="Image 17" style="width: 100%;">
+</div>
